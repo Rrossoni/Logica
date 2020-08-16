@@ -12,7 +12,7 @@ public class Maiorounao {
     
     int nascimento = scan.nextInt();
     
-    if (nascimento <=2020){
+    if (nascimento <=2002){
         System.out.println ( " Maior de idade.");
     } else {
     	
